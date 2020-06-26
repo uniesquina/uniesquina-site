@@ -39,4 +39,8 @@ export default {
 #content {
   margin-top: 30px;
 }
+
+footer {
+  text-align: center;
+}
 </style>

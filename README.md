@@ -43,6 +43,10 @@ Adicionando dependências ao projeto, como no exemplo abaixo eu adicionei o VueR
 
 Eu sempre quis iniciar um pequeno projeto usando o Bulma, então dessa vez comecei dessa forma
 
+Adicionei também o sass loader para trabalhar com variáveis e customizar mais fácil o Bulma
+
 ``` 
     docker-compose exec frontend yarn add bulma
+
+    docker-compose exec frontend yarn add --dev sass-loader sass
 ```

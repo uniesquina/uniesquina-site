@@ -11,10 +11,15 @@ Vue.use(VueRouter)
     component: Home
   },
   {
-    path: '/about',
-    name: 'About',    
-    component: () => import('../views/About.vue')
-  }  
+    path: '/sobre',
+    name: 'Sobre',    
+    component: () => import('../views/Sobre.vue')
+  },  
+  {
+    path: '/cursos',
+    name: 'Cursos',    
+    component: () => import('../views/Cursos.vue')
+  },  
 ]
 
 const router = new VueRouter({

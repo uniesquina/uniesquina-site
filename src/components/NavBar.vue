@@ -21,7 +21,8 @@
     <div id="mainNavbar" class="navbar-menu" v-bind:class="{'is-active': showNav}">
       <div class="navbar-start">
         <router-link to="/" class="navbar-item" @click="showNav = false">Home</router-link>
-        <router-link to="/about" class="navbar-item" @click="showNav = false">About</router-link>
+        <router-link to="/sobre" class="navbar-item" @click="showNav = false">Quem somos?</router-link>
+        <router-link to="/cursos" class="navbar-item" @click="showNav = false">Cursos</router-link>
       </div>
     </div>
   </nav>

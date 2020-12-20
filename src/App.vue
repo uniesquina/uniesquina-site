@@ -8,6 +8,8 @@
       </section>
     </div>
     <footer class="column">
+      UniEsquina é a maior Instituição de Ensino Superior Fictícia da Terra Plana
+      <br />
       Backgroung image from <a href="http://www.freepik.com">Designed by wirestock / Freepik</a>
     </footer>
   </div>

@@ -1,6 +1,6 @@
 <template>
     <div id="top-image">
-        <HelloWorld msg="Hello! Your Vue.JS app + Bulma" />
+        <HelloWorld msg="Seu futuro ainda mais incerto!" />
     </div>    
 </template>
 
